@@ -1,9 +1,19 @@
-To run this:
-
-1) Head to 
-
 Social Networking Kata
 ----------------------
+
+This is a Social Networking Kata that uses TDD. This is written in Java.
+
+To run this: 
+1. Head to src 
+2. Go to test/java/kata 
+3. Then run KataTest.java
+
+### Corrections to requirements:
+- For 2 minutes or higher: minute to minutes
+- "Views his wall" -> "Views his feed"
+
+### Assumptions:
+- Alice publishes right now for the first one
 
 Implement the core **domain logic** for a social networking application (similar to Twitter) satisfying the features below.
 
